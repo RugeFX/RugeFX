@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @RugeFX
+- 👋 Hi, I’m RuGee
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning JS and React with a bit of Node JS
 

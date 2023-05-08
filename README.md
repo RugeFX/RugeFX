@@ -2,16 +2,16 @@
  ### <div align="center">Hi! I'm Zacky, a high school student who's passionate about Web Development</div>  
   
 
-- 🔭 I’m currently working on DuLearn Learning Forum App  
+- 🔭 I’m currently working on YoMart E-Commerce App
   
 
-- 🌱 I’m currently learning React, Express JS, MongoDB, PostgreSQL, and Java Spring  
+- 🌱 I’m currently learning Typescript, Prisma, Express, Postgres, and NextJS
   
 
-- ❓ Ask me about anything related to JavaScript, Laravel, and HTML/CSS  
+- ❓ Ask me about anything related to JavaScript, Laravel, and HTML/CSS
   
 
-- ⚡ Fun fact: I like cats  
+- ⚡ Fun fact: I like cats
   
 
 <br/>  

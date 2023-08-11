@@ -1,5 +1,5 @@
 
- ### <div align="center">Hi! I'm Ahmad Zacky, a high school student who's passionate about Web Development</div>  
+ ### <div align="center">Hi! I'm Ahmad Zacky, a self taught developer who's passionate about Web Development</div>  
   
 
 - 🔭 I’m currently working on YoMart E-Commerce App

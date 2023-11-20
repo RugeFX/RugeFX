@@ -2,7 +2,7 @@
  ### <div align="center">Hi! I'm Ahmad Zacky, a self taught developer who's passionate about Web Development</div>  
   
 
-- 🔭 I’m currently working on YoMart E-Commerce App
+- 🔭 I’m currently working on Warehouse Ruge
   
 
 - 🌱 I’m currently learning Go, Typescript, Postgres, Redis, and React

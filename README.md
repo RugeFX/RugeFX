@@ -2,13 +2,13 @@
  ### <div align="center">Hi! I'm Ahmad Zacky, a self taught developer who's passionate about Web Development</div>  
   
 
-- 🔭 I’m currently working on Warehouse Ruge
+- 🔭 I’m currently working on MinimaList
   
 
-- 🌱 I’m currently learning Go, Typescript, Postgres, Redis, and React
+- 🌱 I’m currently learning Rust, Go, Typescript, React, and Redis
   
 
-- ❓ Ask me about anything related to JavaScript, Laravel, and HTML/CSS
+- ❓ Ask me about anything related to JavaScript/TypeScript, React, Laravel, and/or HTML/CSS
   
 
 <br/>  

@@ -2,7 +2,7 @@
  ### <div align="center">Hi! I'm Ahmad Zacky, a self taught developer who's passionate about Web Development</div>  
   
 
-- 🔭 I’m currently working on MinimaList
+- 🔭 I’m currently working on ...
   
 
 - 🌱 I’m currently learning Rust, Go, Typescript, React, and Redis
